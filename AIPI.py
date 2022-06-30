@@ -1,6 +1,6 @@
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
-print("Hola! Esta es la actividad integradora de programación Inicial de Colica, Toledo, Agreguen sus apellidos")
+print("Hola! Esta es la actividad integradora de programación Inicial de Colica, Toledo,vallejos Agreguen sus apellidos")
 print('Por favor, ingresá 5 números')
 
 
@@ -14,13 +14,13 @@ myList = [ numero1, numero2, numero3, numero4, numero5]
 
 
 
-
+sumatotal=( numero1+ numero2+ numero3 +numero4+numero5)
 
 numero_maximo = max(myList)
 
 print (myList)
 
-
+print(sumatotal)
 
 
 
