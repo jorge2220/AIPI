@@ -12,7 +12,7 @@ numero5 = int(input("Ingrese el quinto número: "))
 
 myList = [ numero1, numero2, numero3, numero4, numero5]
 
-
+sumatotal=(numero1+ numero2 + numero3 + numero4 +numero5)
 
 
 
@@ -20,7 +20,7 @@ numero_maximo = max(myList)
 
 print (myList)
 
-
+print(sumatotal)
 
 
 
