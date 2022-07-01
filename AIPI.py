@@ -12,16 +12,20 @@ numero5 = int(input("Ingrese el quinto número: "))
 
 myList = [ numero1, numero2, numero3, numero4, numero5]
 
-
-
 sumatotal=( numero1+ numero2+ numero3 +numero4+numero5)
 
+promedio = (sumatotal/5)
+
 numero_maximo = max(myList)
+
+numero_minimo = min(myList)
 
 print (myList)
 
 print(sumatotal)
 
-
+print("El promedio es:", promedio)
 
 print ("El numero maximo es:", numero_maximo)
+
+print ("El numero minimo es:", numero_minimo)
