@@ -1,5 +1,5 @@
 print("Hola! Esta es la actividad integradora de programación Inicial de Colica, Toledo, Vallejos")
-print('Por favor, ingresá 5 números')
+print('Por favor, ingresá un número, este es el bucle')
 
 
 myList = []
