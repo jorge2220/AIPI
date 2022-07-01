@@ -16,3 +16,11 @@ promedio = sum(myList)/len(myList)
 print ("La suma total es de: ", suma_total)
 
 print ("El promedio es de: ", promedio)
+
+numero_maximo = max(myList)
+
+numero_minimo = min(myList)
+
+print ("El numero maximo es: ", numero_maximo)
+
+print ("El numero minimo es: ", numero_minimo )
