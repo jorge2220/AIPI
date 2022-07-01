@@ -9,3 +9,10 @@ for x in range(5):
 
 print (myList)
 
+suma_total = sum(myList)
+
+promedio = sum(myList)/len(myList)
+
+print ("La suma total es de: ", suma_total)
+
+print ("El promedio es de: ", promedio)
